@@ -1,8 +1,8 @@
 package Text01;
 import java.util.ArrayList;
 import java.util.Scanner;
-public class Demo {
-    public static void main(String[] args) {
+public class StudentSystem {
+    public static void startStudentSystem() {
         ArrayList<Student> list=new ArrayList<>();
         String choose;
         loop: while(true){
